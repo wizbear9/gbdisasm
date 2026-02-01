@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36915.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "gbdisasm", "build\gbdisasm\gbdisasm.vcxproj", "{6F6CDCF5-0E54-4F58-ADDF-DE46B574C14D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F6CDCF5-0E54-4F58-ADDF-DE46B574C14D}.Debug|x64.ActiveCfg = Debug|x64
+		{6F6CDCF5-0E54-4F58-ADDF-DE46B574C14D}.Debug|x64.Build.0 = Debug|x64
+		{6F6CDCF5-0E54-4F58-ADDF-DE46B574C14D}.Debug|x86.ActiveCfg = Debug|Win32
+		{6F6CDCF5-0E54-4F58-ADDF-DE46B574C14D}.Debug|x86.Build.0 = Debug|Win32
+		{6F6CDCF5-0E54-4F58-ADDF-DE46B574C14D}.Release|x64.ActiveCfg = Release|x64
+		{6F6CDCF5-0E54-4F58-ADDF-DE46B574C14D}.Release|x64.Build.0 = Release|x64
+		{6F6CDCF5-0E54-4F58-ADDF-DE46B574C14D}.Release|x86.ActiveCfg = Release|Win32
+		{6F6CDCF5-0E54-4F58-ADDF-DE46B574C14D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {714FCFEA-7480-4A03-BCE4-8F2B31AF6E24}
+	EndGlobalSection
+EndGlobal
