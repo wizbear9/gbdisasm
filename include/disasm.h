@@ -33,9 +33,9 @@ private:
 	// Member
 	//
 	std::vector<char> buffer;
-	int cursor;
+	uint32_t cursor;
 
-	int main_point;
+	uint32_t main_point;
 
 	std::vector<std::vector<unsigned char>> inst_list;
 };
